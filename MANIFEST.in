@@ -1,2 +1,2 @@
 include LICENSE README.md setup.py
-include-recursive uniassoc
+recursive-include uniassoc
